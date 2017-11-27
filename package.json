@@ -1,0 +1,17 @@
+{
+  "name": "shopify-app-screenshotter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Dan S.",
+    "email": "personal.mail.of.dan@gmail.com"
+  },
+  "private": true,
+  "dependencies": {
+    "colors": "^1.1.2",
+    "pg": "^7.3.0",
+    "progress": "^2.0.0",
+    "puppeteer": "^0.12.0"
+  }
+}
